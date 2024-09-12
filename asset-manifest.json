@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaishnaviportfolio/static/css/main.abe6d2f8.css",
+    "main.js": "/vaishnaviportfolio/static/js/main.81a485ce.js",
+    "static/js/453.d0b70880.chunk.js": "/vaishnaviportfolio/static/js/453.d0b70880.chunk.js",
+    "index.html": "/vaishnaviportfolio/index.html",
+    "main.abe6d2f8.css.map": "/vaishnaviportfolio/static/css/main.abe6d2f8.css.map",
+    "main.81a485ce.js.map": "/vaishnaviportfolio/static/js/main.81a485ce.js.map",
+    "453.d0b70880.chunk.js.map": "/vaishnaviportfolio/static/js/453.d0b70880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abe6d2f8.css",
+    "static/js/main.81a485ce.js"
+  ]
+}
