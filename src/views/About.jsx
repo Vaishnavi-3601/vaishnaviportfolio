@@ -13,7 +13,7 @@ function About() {
       <div className="flex flex-col md:flex-row items-center justify-center md:space-x-8 md:p-16">
         <div className="w-full md:w-1/2 mb-8 md:mb-0 " data-aos="fade-right">
           <img
-            src="https://img.freepik.com/free-photo/portrait-beautiful-young-brunette-woman-with-black-hair-white-shirt_1142-51468.jpg?size=626&ext=jpg&ga=GA1.1.399218817.1718110296&semt=ais_hybrid"
+            src={"https://img.freepik.com/free-photo/portrait-beautiful-young-brunette-woman-with-black-hair-white-shirt_1142-51468.jpg?size=626&ext=jpg&ga=GA1.1.399218817.1718110296&semt=ais_hybrid"}
             alt="About Me"
             className="rounded-lg shadow-lg w-full h-auto object-cover about-img"
           />

@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import './home.css';
+import main from './img/main.jpg';
 
 function Home() {
   useEffect(() => {
@@ -12,7 +13,7 @@ function Home() {
     <div className="relative home" id="home">
       <div className="absolute inset-0">
         <img 
-          src='./img/main.jpg'
+          src={main}
           alt="Hero Background" 
           className="object-cover w-full h-full"
         />
